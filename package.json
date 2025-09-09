@@ -1,0 +1,28 @@
+{
+  "name": "notesproject",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000N\u0000o\u0000t\u0000e\u0000s\u0000P\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllenSun101/NotesProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllenSun101/NotesProject/issues"
+  },
+  "homepage": "https://github.com/AllenSun101/NotesProject#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "web3": "^1.10.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.4"
+  }
+}
