@@ -1,5 +1,5 @@
 async function main() {
-  const Notes = await ethers.getContractFactory("Notes");
+  const Notes = await ethers.getContractFactory("NotesApp");
   console.log("Deploying contract...");
 
   const contract = await Notes.deploy();
